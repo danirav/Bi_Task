@@ -1,5 +1,5 @@
 # Bi_Task
-## Daniel Raviv
-## Koral Namimi
-## Inbar Nadler
-## Galit Abayov
+## Daniel Raviv.
+## Koral Namimi.
+## Inbar Nadler.
+## Galit Abayov.
